@@ -23,7 +23,7 @@ description: >-
   power, greed and corruption.   To this end, our aim is to generate healthy and
   respectful debate and dialogue, to stimulate much-needed conversations around
   serious issues affecting our society, and to ultimately change negative
-  thinking and behaviours. 
+  thinking and behaviours.  2
 intro:
   blurbs:
     - image: /img/uctgsblogo.png
