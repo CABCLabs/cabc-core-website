@@ -14,16 +14,7 @@ mainpitch:
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
-description: >-
-  To encourage and grow active citizenship, and to use our skills and shared
-  knowledge to help create positive social and environmental change for South
-  Africa, Africa and the world.   We harness factual, and evidence-based social
-  media data and analytics to enlighten and educate people, and to combat
-  dialogue manipulation and misinformation used for the purposes of political
-  power, greed and corruption.   To this end, our aim is to generate healthy and
-  respectful debate and dialogue, to stimulate much-needed conversations around
-  serious issues affecting our society, and to ultimately change negative
-  thinking and behaviours.  2
+description: "1.\tTo harness factual, and evidence-based social media information that form the foundation of our work. \n\n2.\tTo combat online misinformation used to distort narratives, undermine democracies, and threaten elections.  \n\n3.\tTo generate healthy and respectful debate and dialogue, to stimulate much-needed conversations around serious issues affecting our society.\n\n4.\tTo enlighten people, so they can make their own decisions.\n\n5.\tTo encourage and grow active citizenry.\n\n6.\tTo help facilitate positive social and environmental change.  \n\n7.\tTo attempt to effect narrative and behavioural change around issues of key social concern. \n"
 intro:
   blurbs:
     - image: /img/uctgsblogo.png
