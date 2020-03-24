@@ -65,7 +65,7 @@ export const IndexPageTemplate = ({
                       {heading}
                     </h3> */}
                      <div className="tile">
-                  <h2>Our Mission Statement</h2>
+                  <h2>Our Purpose</h2>
                     {/* <h3 className="subtitle">{mainpitch.description}</h3> */}
                   </div>
                     <p>{description}</p>
@@ -105,7 +105,7 @@ IndexPageTemplate.propTypes = {
   heading: PropTypes.string,
   subheading: PropTypes.string,
   mainpitch: PropTypes.object,
-  description: PropTypes.string,
+  description: PropTypes.text,
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
