@@ -58,3 +58,5 @@ In as much as it is possible we aim to achieve **behavioural change** around soc
 We aim to build a **conflict resolution infrastructure** that can help to mediate conflict before public violence occurs.
 
 We also provide rigorous **Monitoring, Measurement and Evaluation** through analysing and reporting on changes in the conversation over time; analysing the social media-based behaviour of our citizen activists and reporting on the reach and impact of all of our content.
+
+![](/img/screenshot-2020-03-24-at-22.31.55-min.png)
