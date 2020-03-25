@@ -1,9 +1,13 @@
 ---
 templateKey: index-page
-title: Action without thought is empty. Thought without action is blind.
+title: >-
+  Our children may learn about heroes of the past. Our task is to make ourselves
+  architects of the future
 image: ../img/cover.jpg
-heading: Action without thought is empty. Thought without action is blind.
-subheading: ― Kwame Nkrumah
+heading: >-
+  Our children may learn about heroes of the past. Our task is to make ourselves
+  architects of the future
+subheading: Uhuru Kenyatta
 mainpitch:
   title: >-
     The Centre for Analytics and Behavioural Change (CABC) was created out of a
@@ -14,13 +18,26 @@ mainpitch:
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
-description:
+description: N/A
 purpose:
   motivations:
     - number: 1
-      reason: this is it.
+      reason: >-
+        To harness factual, and evidence-based social media information that
+        form the foundation of our work. 
     - number: 2
-      reason: this is it 222.
+      reason: >-
+        To combat online misinformation used to distort narratives, undermine
+        democracies, and threaten elections.  
+    - reason: >-
+        To generate healthy and respectful debate and dialogue, to stimulate
+        much-needed conversations around serious issues affecting our society.
+    - reason: 'To enlighten people, so they can make their own decisions.'
+    - reason: To encourage and grow active citizenry.
+    - reason: 'To help facilitate positive social and environmental change.  '
+    - reason: >-
+        To attempt to effect narrative and behavioural change around issues of
+        key social concern. 
 intro:
   blurbs:
     - image: /img/uctgsblogo.png
