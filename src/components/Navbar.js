@@ -5,6 +5,9 @@ import logo from '../img/cabc-logo.svg'
 import { FaHome } from 'react-icons/fa';
 import { FaInfoCircle } from 'react-icons/fa';
 import { FaBullseye } from 'react-icons/fa';
+import { FaTools } from 'react-icons/fa';
+import { FaPen } from 'react-icons/fa';
+import { FaEnvelope } from 'react-icons/fa'; 
 
 
 
@@ -56,13 +59,13 @@ const Navbar = class extends React.Component {
                <FaBullseye /> What We Do
               </Link></li>
     <li> <Link className="navbar-item" to="/how-we-work">
-                How We Work
+               <FaTools /> How We Work
               </Link></li>
     <li><Link className="navbar-item" to="/blog">
-                News / Media
+                <FaPen /> News / Media
               </Link></li>
     <li> <Link className="navbar-item" to="/contact">
-                Contact
+               <FaEnvelope /> Contact
               </Link></li>
   </ul>
 </header>
