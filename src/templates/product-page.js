@@ -171,7 +171,6 @@ export const productPageQuery = graphql`
           }
         }
         heading
-        description
         intro {
           blurbs {
             image {
