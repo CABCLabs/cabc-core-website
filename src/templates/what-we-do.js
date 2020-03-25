@@ -8,6 +8,19 @@ export const WhatWeDoTemplate = ({ title, content, contentComponent }) => {
   const PageContent = contentComponent || Content
 
   return (
+    <span>
+    <div
+     className="full-width-image-container margin-top-0"
+     style={{
+       backgroundImage: `url('/img/blog-index.jpg')`,
+     }}
+   >
+     <h1
+       className="blogTitleBox has-text-weight-bold is-size-1"
+     >
+       {title}
+     </h1>
+   </div>
     <section className="section section--gradient">
       <div className="container">
         <div className="columns">
@@ -22,6 +35,7 @@ export const WhatWeDoTemplate = ({ title, content, contentComponent }) => {
         </div>
       </div>
     </section>
+    </span>
   )
 }
 
