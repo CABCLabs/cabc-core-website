@@ -10,9 +10,9 @@ heading: >-
 subheading: Uhuru Kenyatta
 mainpitch:
   title: >-
-    The Centre for Analytics and Behavioural Change (CABC) was created out of a
-    dire need to right the wrongs perpetrated against our society for the
-    pursuit of profit and power. 
+    We are fact-finders, we are truth seekers, and we exist to empower people
+    with information so that we can effect positive change in our society,
+    through engagement, dialogue and advocacy.
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
