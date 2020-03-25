@@ -4,6 +4,8 @@ import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import Features from '../components/Features'
+import Motivations from '../components/Motivations'
+
 import BlogRoll from '../components/BlogRoll'
 
 export const IndexPageTemplate = ({
@@ -11,6 +13,7 @@ export const IndexPageTemplate = ({
   title,
   heading,
   subheading,
+  purpose,
   mainpitch,
   description,
   intro,
@@ -67,8 +70,9 @@ export const IndexPageTemplate = ({
                      <div className="tile">
                   <h2>Our Purpose</h2>
                     {/* <h3 className="subtitle">{mainpitch.description}</h3> */}
+                  
                   </div>
-                    <p>{description}</p>
+                  <Motivations gridItems={purpose.motivations} />
                   </div>
                 </div>
                 <Features gridItems={intro.blurbs} />
@@ -106,6 +110,9 @@ IndexPageTemplate.propTypes = {
   subheading: PropTypes.string,
   mainpitch: PropTypes.object,
   description: PropTypes.string,
+  purpose: PropTypes.shape({
+    movations: PropTypes.array,
+  }),
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
@@ -123,6 +130,7 @@ const IndexPage = ({ data }) => {
         subheading={frontmatter.subheading}
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
+        purpose={frontmatter.purpose}
         intro={frontmatter.intro}
       />
     </Layout>
@@ -158,6 +166,12 @@ export const pageQuery = graphql`
           description
         }
         description
+        purpose {
+          motivations {
+            number
+            reason
+            }
+            }
         intro {
           blurbs {
             image {
