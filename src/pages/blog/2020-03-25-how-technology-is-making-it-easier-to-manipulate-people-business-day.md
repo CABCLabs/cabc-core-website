@@ -12,4 +12,4 @@ featuredimage: /img/big-data.png
 tags:
   - Media Coverage
 ---
-``[`Read the full Article here >`](https://www.businesslive.co.za/bd/opinion/2018-11-26-how-technology-is-making-it-easier-to-manipulate-people/)``
+[Read the full article >](https://www.businesslive.co.za/bd/opinion/2018-11-26-how-technology-is-making-it-easier-to-manipulate-people/)
