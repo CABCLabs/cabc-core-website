@@ -14,7 +14,6 @@ mainpitch:
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
-<<<<<<< HEAD
 description:
 purpose:
   motivations:
@@ -22,32 +21,6 @@ purpose:
       reason: this is it.
     - number: 2
       reason: this is it 222.
-=======
-description: >
-  1. To harness factual, and evidence-based social media information that form
-  the foundation of our work. 
-
-
-  2. To combat online misinformation used to distort narratives, undermine
-  democracies, and threaten elections.  
-
-
-  3. To generate healthy and respectful debate and dialogue, to stimulate
-  much-needed conversations around serious issues affecting our society.
-
-
-  4. To enlighten people, so they can make their own decisions.
-
-
-  5. To encourage and grow active citizenry.
-
-
-  6. To help facilitate positive social and environmental change.  
-
-
-  7. To attempt to effect narrative and behavioural change around issues of key
-  social concern.
->>>>>>> 9f58e12ec0f5e7af8c97986b4aa0b950448e9d03
 intro:
   blurbs:
     - image: /img/uctgsblogo.png
