@@ -168,7 +168,6 @@ export const pageQuery = graphql`
         description
         purpose {
           motivations {
-            number
             reason
             }
             }
