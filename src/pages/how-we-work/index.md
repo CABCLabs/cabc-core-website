@@ -9,8 +9,6 @@ At the **Centre for Analytics and Behavioural Change** we have three key process
 2. **Action;** and
 3. **Impact**
 
-
-
 ### 1. Insights
 
 Our team of highly trained analysts use cutting-edge analytical tools to **isolate social media conversations** of social import (these can range from big to small conversations - eg: xenophobia in Gauteng or global Climate Change denialism).
@@ -45,8 +43,6 @@ We search for questions that are being asked in real-time online and direct them
 
 We intend to **publish** the work involved in the Action process.
 
-
-
 ### **3. Impact**
 
 The **Impact** component speaks to the higher order impact we hope to achieve through our work.
@@ -59,4 +55,4 @@ We aim to build a **conflict resolution infrastructure** that can help to mediat
 
 We also provide rigorous **Monitoring, Measurement and Evaluation** through analysing and reporting on changes in the conversation over time; analysing the social media-based behaviour of our citizen activists and reporting on the reach and impact of all of our content.
 
-![](/img/screenshot-2020-03-24-at-22.31.55-min.png)
+![](/img/diagram-demo.svg)
