@@ -3,8 +3,10 @@ templateKey: about-page
 path: /about-us
 title: About Us
 ---
-Formed in 2017, the CABC’s Executive Team members and special advisers each come from various organisations including the UCT Graduate School of Business , the Citizen Research Centre and the Cape Peninsula University of Technology. Our special advisers come from various disciplines and industries including data analytics, marketing and advertising, web development, academia etcetc   
+The Centre for Analytics and Behavioural Change (CABC) is a non-profit organisation that was formed in 2017 to act in the public interest. 
 
-Our strength is in our diversity – the diversity of our cultures, but also the diversity of our skills, knowledge and experiences. This makes us a powerhouse team that can tackle serious issues from different perspectives with a range of resources at our disposal. 
+Our innovation is in our collaboration. By combining our collective skills, knowledge and experience we aim to effect positive behavioural change, whether for social upliftment or environmental benefit, or both. Right now, our main areas of focus are social cohesion (e.g. racism, xenophobia, homophobia, gender-based violence), narrative manipulation, sustainability, climate change and public health (HIV/AIDS/Covid-19 and other communicable diseases). 
 
-Our intern programme is based at the University of Cape Town and includes PHD candidates and MBA graduates from UCT Graduate School of Business and the Allan Gray Institute of Business  who work on our projects, helping with data analysis and insights. 
+The CABC is incubated at the Graduate School of Business (GSB) at the University of Cape Town (UCT). The team is drawn from various organisations including the GSB, the Alan Gray Centre for Values Based Leadership, the Citizen Research and Dialogue Centres and the Cape Peninsula University of Technology. Our team covers a wide range of skills, including academia, technology, research analytics, dialogue facilitation, conflict mediation, communication, and advertising.
+
+We have established an intern programme which includes PHD candidates and MBA graduates who work on our projects, helping with data analysis, research and insights. 
