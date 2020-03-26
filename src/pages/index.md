@@ -40,8 +40,6 @@ purpose:
         key social concern. 
 intro:
   blurbs:
-    - image: /img/uctgsblogo.png
-      text: UCT GSB
     - image: /img/cdclogo.png
       text: CDC
     - image: /img/crclogo.png
