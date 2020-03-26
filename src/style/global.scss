@@ -131,14 +131,14 @@
   }
   // STYLING QUOTE AREA // 
 .mainQuoteText { 
-    width: 80%;
+    width: 60%;
     margin-left: auto;
     margin-right: auto;
     color: #fff!important;
-    font-size: 5rem!important;
-    text-shadow: 5px 5px 7px rgba(0, 0, 0, 0.4);
+    font-size: 2rem!important;
+    padding: 50px 30px;
+    background: #006699;
     text-align: center;
-    text-transform: uppercase;
 }
 .mainQuoteAttr { 
     width: 70%;
@@ -152,7 +152,6 @@
     background-color: rgb(50, 153, 204);
     width: fit-content;
     border-radius: 2px;
-    margin-top: 10px;
 }
 .header {
   background-color: transparent;
@@ -210,6 +209,7 @@ z-index: 2;
 }
 .cabcLogo { 
   width: 180px;
+  padding: 5px;
 }
 .post-meta { 
   padding: 10px;
@@ -242,17 +242,19 @@ z-index: 2;
   @media (max-width: 48em) {
     // STYLING QUOTE AREA // 
 .mainQuoteText { 
-    width: 90%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
     color: #fff;
-    font-size: 2rem!important;
+    font-size: 1.6rem!important;
+    padding: 50px 30px;
+    background: #006699;
+    text-align: center;
     text-shadow: 5px 5px 7px rgba(0, 0, 0, 0.2);
     text-align: center;
-    text-transform: uppercase;
 }
 .mainQuoteAttr { 
-    width: 90%;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
     color: #fff;
@@ -265,7 +267,7 @@ z-index: 2;
 }
     .cabcLogo { 
         width: 150px;
-        padding: 2px;
+        padding: 5px;
     }
    
   }
@@ -285,4 +287,32 @@ z-index: 2;
     font-weight: 400!important;
     font-size: 1.1em!important;
   }
+  .custom-counter  {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+  }
+  .custom-counter li {
+    counter-increment: step-counter;
+    margin-bottom: 10px;
+    list-style: none;
+    background-color: #006699;
+    padding: 15px;
+    margin-bottom: 15px;
+    color: #fff;
+    border-radius: 50px;
+  }
   
+  .custom-counter li::before {
+    content: counter(step-counter);
+    margin-right: 10px;
+    font-size: 100%;
+    background-color: rgb(50, 153, 204);
+    color: white;
+    font-weight: bold;
+    padding: 3px 8px;
+    border-radius: 50%;
+  }
+  .overSizedHeading { 
+    font-size: 5rem!important;
+  }

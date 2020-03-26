@@ -4,7 +4,7 @@ import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 const MotivationGrid = ({ gridItems }) => (
   <div className="columns is-multiline">
-  <ol>{gridItems.map(item => (
+  <ol class="custom-counter">{gridItems.map(item => (
       <li key={item} >
             {item.reason}
       </li>

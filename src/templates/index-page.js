@@ -68,7 +68,7 @@ export const IndexPageTemplate = ({
                       {heading}
                     </h3> */}
                      <div className="tile">
-                  <h2>Our Purpose</h2>
+                  <h2 className="overSizedHeading">Our Purpose</h2>
                     {/* <h3 className="subtitle">{mainpitch.description}</h3> */}
                   
                   </div>
