@@ -9,7 +9,7 @@ At the **Centre for Analytics and Behavioural Change** we have three key process
 2. **Action;** and
 3. **Impact**
 
-### 1. Insights
+### **1. Insights**
 
 Our team of highly trained analysts use cutting-edge analytical tools to **isolate social media conversations** of social import (these can range from big to small conversations - eg: xenophobia in Gauteng or global Climate Change denialism).
 
