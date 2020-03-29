@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import logo from '../img/cabc-logo.svg'
+import logo from '../img/cabc-logo.png'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
@@ -10,16 +10,16 @@ import vimeo from '../img/social/vimeo.svg'
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer className="footer has-background-blue has-text-white-ter">
+      <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
           <img
             src={logo}
             alt="CABC Logo"
-            style={{ width: '14em', height: '10em' }}
+            style={{ width: '12em' }}
           />
         </div>
-        <div className="content has-text-centered has-background-blue has-text-white-ter">
-        <div className="container has-background-blue has-text-white-ter">
+        <div className="content has-text-centered has-background-black has-text-white-ter">
+        <div className="container has-background-black has-text-white-ter">
             <div className="columns">
               <div className="column is-12 social">
                 <a title="facebook" href="https://facebook.com">
@@ -55,11 +55,11 @@ const Footer = class extends React.Component {
             </div>
           </div>
         </div>
-        <div className="content has-text-centered has-background-blue has-text-white-ter">
-        <div className="container has-background-blue has-text-white-ter">
+        <div className="content has-text-centered has-background-black has-text-white-ter">
+        <div className="container has-background-black has-text-white-ter">
             <div className="columns">
               <div className="column is-12 social">
-                <h4 className="footerContact">info@cabc.org</h4>
+                <h4 className="footerContact">info@cabc.org.za</h4>
               </div>
             </div>
           </div>

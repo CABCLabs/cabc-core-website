@@ -50,22 +50,22 @@ const Navbar = class extends React.Component {
   <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
   <ul class="menu">
   <li><Link className="navbar-item" to="/">
-  <FaHome /> Home
+   Home
               </Link></li>
     <li><Link className="navbar-item" to="/about-us">
-     <FaInfoCircle /> About Us
+      About Us
               </Link></li>
               <li> <Link className="navbar-item" to="/what-we-do">
-               <FaBullseye /> What We Do
+              What We Do
               </Link></li>
     <li> <Link className="navbar-item" to="/how-we-work">
-               <FaTools /> How We Work
+               How We Work
               </Link></li>
     <li><Link className="navbar-item" to="/blog">
-                <FaPen /> News / Media
+                 News / Media
               </Link></li>
     <li> <Link className="navbar-item" to="/contact">
-               <FaEnvelope /> Contact
+               Contact
               </Link></li>
   </ul>
 </header>
