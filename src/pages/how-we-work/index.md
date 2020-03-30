@@ -8,11 +8,7 @@ title: How We Work
 
 At the **Centre for Analytics and Behavioural Change** we have three key processes that guide our work:
 
-1. **Insights;**
-2. **Action;** and
-3. **Impact**
-
-### **1. Insights**
+### **Insights**
 
 Our team of highly trained analysts use cutting-edge analytical tools to **isolate social media conversations** of social import (these can range from big to small conversations - eg: xenophobia in Gauteng or global Climate Change denialism).
 
@@ -22,7 +18,7 @@ The next step is to conduct a **Micro Analysis** of the data. This allows us to 
 
 We **publish** the findings of our insight development process. We use a range of channels including radio, TV, print, online, our own websites and social pages. Through our association with UCT, our data will be used in Masters and PHD dissertations and our methodologies will be published in peer reviewed journals.
 
-### **2. Action**
+### **Action**
 
 At the heart of **Action** are our **citizen activists** and our **dialogue facilitators**. We use a crowd-sourcing model to find activists. In the analysis of every conversation, we are able to identify people speaking on each side of the conversation ie: antagonists and protagonists. The protagonists are our allies, our **citizen activists** – those who are value aligned, and are already speaking in the conversation (eg: the anti-xenophobes, or the anti-racists). Our **dialogue facilitators** are in-house interns trained in dialogical skills and conflict mediation who **develop, nurture and curate our bank of** **citizen activists**.
 
@@ -46,7 +42,7 @@ We search for questions that are being asked in real-time online and direct them
 
 We intend to **publish** the work involved in the Action process.
 
-### **3. Impact**
+### **Impact**
 
 The **Impact** component speaks to the higher order impact we hope to achieve through our work.
 
