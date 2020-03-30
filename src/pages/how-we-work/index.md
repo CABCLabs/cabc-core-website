@@ -3,6 +3,9 @@ templateKey: how-we-work
 path: /how-we-work
 title: How We Work
 ---
+
+![](/img/diagram-demo.svg)
+
 At the **Centre for Analytics and Behavioural Change** we have three key processes that guide our work:
 
 1. **Insights;**
@@ -54,5 +57,3 @@ In as much as it is possible we aim to achieve **behavioural change** around soc
 We aim to build a **conflict resolution infrastructure** that can help to mediate conflict before public violence occurs.
 
 We also provide rigorous **Monitoring, Measurement and Evaluation** through analysing and reporting on changes in the conversation over time; analysing the social media-based behaviour of our citizen activists and reporting on the reach and impact of all of our content.
-
-![](/img/diagram-demo.svg)
