@@ -17,7 +17,7 @@ const MotivationGrid = ({ gridItems }) => (
 MotivationGrid.propTypes = {
   gridItems: PropTypes.arrayOf(
     PropTypes.shape({
-      image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+      image: PropTypes.oneOfType([PropTypes.object]),
       text: PropTypes.string,
     })
   ),
