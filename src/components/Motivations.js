@@ -3,13 +3,11 @@ import PropTypes from 'prop-types'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 const MotivationGrid = ({ gridItems }) => (
-  <div className="columns is-multiline">
-  <ol class="custom-counter">{gridItems.map(item => (
-      <li key={item} >
+  <div className="columns is-multiline">{gridItems.map(item => (
+      <p key={item} >
             {item.reason}
-      </li>
+      </p>
     ))}
-    </ol>
   </div>
 )
 

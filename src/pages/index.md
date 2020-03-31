@@ -21,22 +21,23 @@ mainpitch:
 description: N/A
 purpose:
   motivations:
-    - number: 1
-      reason: >-
-        To harness factual, and evidence-based social media information that
-        form the foundation of our work. 
-    - number: 2
-      reason: >-
-        To combat online misinformation used to distort narratives, undermine
+      reason:
+        - To harness factual, and evidence-based social media information that
+        form the foundation of our work.
+      reason:
+        - To combat online misinformation used to distort narratives, undermine
         democracies, and threaten elections.  
-    - reason: >-
-        To generate healthy and respectful debate and dialogue, to stimulate
+      reason:
+        - To generate healthy and respectful debate and dialogue, to stimulate
         much-needed conversations around serious issues affecting our society.
-    - reason: 'To enlighten people, so they can make their own decisions.'
-    - reason: To encourage and grow active citizenry.
-    - reason: 'To help facilitate positive social and environmental change.  '
-    - reason: >-
-        To attempt to effect narrative and behavioural change around issues of
+      reason:
+        - To enlighten people, so they can make their own decisions.
+      reason:
+        - To encourage and grow active citizenry.
+      reason:
+        - To help facilitate positive social and environmental change.
+      reason:
+        - To attempt to effect narrative and behavioural change around issues of
         key social concern. 
 intro:
   blurbs:
