@@ -1,7 +1,7 @@
 import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
-import logo from '../img/cabc-logo.png'
+
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import Motivations from '../components/Motivations'
@@ -29,7 +29,7 @@ export const IndexPageTemplate = ({
         backgroundAttachment: `fixed`,
       }}
     >
-      <div
+      {/* <div
         style={{
           display: 'flex',
           height: '150px',
@@ -39,10 +39,17 @@ export const IndexPageTemplate = ({
           flexDirection: 'column',
         }}
       >
-             <Link to="/" title="Logo">
-              <img className="cabcLogo" src={logo} alt="CABC Logo" />
-            </Link>
-           </div>
+        <h1
+          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen mainQuoteText"
+        >
+          {title}
+        </h1>
+        <h3
+          className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen mainQuoteAttr"
+        >
+          {subheading}
+        </h3>
+      </div> */}
     </div>
     <section className="section section--gradient">
       <div className="container">

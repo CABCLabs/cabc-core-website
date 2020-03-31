@@ -2,8 +2,6 @@
   /* FONT IMPORT */
   @import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
   @import url('https://fonts.googleapis.com/css?family=Abel');
-  @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
-  @import url('https://fonts.googleapis.com/css?family=Roboto:100i&display=swap');
   /* header */
 
   .header {
@@ -12,38 +10,42 @@
     width: 100%;
     z-index: 3;
   }
+<<<<<<< HEAD
+  .section { 
+    padding: 1rem 1.5rem;
+  }
   .full-width-image { 
     height: 100vh;
 }
+=======
+>>>>>>> parent of 658431b... Image header
   
   .header ul {
     margin: 0;
     padding: 0;
     list-style: none;
     overflow: hidden;
-    background-color: #fff;
+    background-color: rgba(0,0,0,0.85);
     border-radius: 0px 0px 0px 30px;
     position: fixed;
     top: 0;
     right: 0;
   }
-  .introQuote { 
-    font-family: 'Roboto', sans-serif;
-  }
+  
   .header li a {
     display: block;
     padding: 20px 20px;
     text-decoration: none;
-    color: #006699;
+    color: #343334;
     font-weight: 600;
   }
   
   .header li a:hover,
   .header .menu-btn:hover {
-    background-color: rgb(50, 153, 204);
-    color: #fff;
+    background-color: #343334;
+    color: #cdcc00;
   }
-  
+
   .header .logo {
     display: block;
     float: left;
@@ -53,11 +55,10 @@
   }
   
   /* menu */
-
+  
   .header .menu {
     clear: both;
     max-height: 0;
-    transition: max-height .2s ease-out;
   }
   
   /* menu icon */
@@ -72,22 +73,20 @@
   }
   
   .header .menu-icon .navicon {
-    background: #006699;
+    background: #cdcc00;
     display: block;
     height: 2px;
     position: relative;
-    transition: background .2s ease-out;
     width: 18px;
   }
   
   .header .menu-icon .navicon:before,
   .header .menu-icon .navicon:after {
-    background: #006699;
+    background: #cdcc00;
     content: '';
     display: block;
     height: 100%;
     position: absolute;
-    transition: all .2s ease-out;
     width: 100%;
   }
   
@@ -128,7 +127,7 @@
   h1, h2 { 
     font-family: 'Roboto', sans-serif;
     font-weight: 700;
-    color: #006699!important;
+    color: #343334!important;
   }
   h3, h4, h5, h6 { 
     font-family: 'Roboto', sans-serif;
@@ -139,8 +138,21 @@
     background-color: #cdcc00;
     color: #fff!important;
   }
- 
+  .reasonDescription { 
+    display: inline-block;
+    width: 75%;
+  }
+ .seedImage { 
+   width: 25%;
+   display: block;
+   float: left;
+   clear: both;
+   padding: 10px;
+ }
   .social a img { 
+    filter: invert(25%); 
+  }
+  .social a img:hover { 
     filter: invert(100%); 
   }
   .social a:hover { 
@@ -191,20 +203,22 @@
 }
 
 .header ul {
+  background-size: cover;
   margin: 0;
   padding: 0;
   list-style: none;
   overflow: hidden;
-  background-color: #fff;
+  background-image: url(/img/navBg.jpg);
+  background-color: rgba(255,255,255,0.5);
+  width: 100vw;
+  height: 100vh;
   position: fixed;
+  top:0;
   border-radius: 0px 0px 0px 0px;
-top: 0;
-left: 0;
 height: 100vh;
-overflow:hidden
 }
 .header .menu-icon { 
-  background-color: #fff;
+  background-color: #343334;
   position: fixed;
   border-radius: 50%;
 top: 10px;
@@ -219,19 +233,32 @@ z-index: 2;
   z-index: 1;
   text-align: center;
   padding-top: 20vh;
-  overflow:hidden
+  overflow:hidden;
 }
 
 .header .menu-btn:checked ~ .menu-icon .navicon {
   background: transparent;
 }
 .blogTitleBox { 
-  background: #006699;
+  background: transparent;
   color: #fff!important;
   padding: 15px 50px;
+  text-shadow: 5px 5px 20px #333;
 }
 .cabcLogo { 
-  width: 300px;
+<<<<<<< HEAD
+  width: 370px;
+  padding: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.cabcLogoText { 
+  width: 600px;
+  display: block;
+=======
+  width: 180px;
+>>>>>>> parent of 658431b... Image header
   padding: 5px;
 }
 .post-meta { 
@@ -257,7 +284,30 @@ z-index: 2;
 }
 @media (max-width: 80em) {
 .cabcLogo { 
-  width: 300px;
+<<<<<<< HEAD
+  width: 370px;
+  padding: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cabcLogoText { 
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding: 5px;
+}
+.seedImage { 
+  width: 18%;
+  display: block;
+  float: left;
+  clear: both;
+  padding: 10px;
+=======
+  width: 140px;
+>>>>>>> parent of 658431b... Image header
 }
 }
   /* 48em = 768px */
@@ -276,10 +326,26 @@ z-index: 2;
     text-shadow: 5px 5px 7px rgba(0, 0, 0, 0.2);
     text-align: center;
 }
+<<<<<<< HEAD
+.content h1 { 
+  font-size: 1.5rem;
+}
+.seedImage { 
+  width: 15%;
+  display: block;
+  float: left;
+  clear: both;
+  padding: 10px;
+}
+.seedBox { 
+  min-height: 90px;
+}
 .full-width-image { 
   height: 75vh;
   background-position: center;
 }
+=======
+>>>>>>> parent of 658431b... Image header
 .mainQuoteAttr { 
     width: 100%;
     margin-left: auto;
@@ -294,12 +360,29 @@ z-index: 2;
   padding: 1rem;
 }
     .cabcLogo { 
-        width: 300px;
+<<<<<<< HEAD
+      width: 370px;
+      padding: 5px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .cabcLogoText { 
+      width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+      display: block;
+      padding: 5px;
+=======
+        width: 150px;
         padding: 5px;
+>>>>>>> parent of 658431b... Image header
     }
    
   }
-
+  .full-width-image { 
+      height: 100vh;
+  }
 
   body { 
     font-family: 'Roboto', sans-serif;
@@ -362,4 +445,9 @@ z-index: 2;
 }
 .button:hover {
   color: #cdcc00;
+}
+h3 { 
+  background-color: #343334;
+  width: fit-content;
+  padding: 8px 10px;
 }
