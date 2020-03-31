@@ -12,7 +12,7 @@ export const HowWeWorkTemplate = ({ title, content, contentComponent }) => {
     <div
      className="full-width-image-container margin-top-0"
      style={{
-       backgroundImage: `url('/img/blog-index.jpg')`,
+       backgroundImage: `url('/img/howWeWork.jpg')`,
      }}
    >
      <h1

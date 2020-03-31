@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 import logo from '../img/cabc-logo.png'
+import introText from '../img/sowingtheseeds.png'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import Motivations from '../components/Motivations'
@@ -42,6 +43,10 @@ export const IndexPageTemplate = ({
              <Link to="/" title="Logo">
               <img className="cabcLogo" src={logo} alt="CABC Logo" />
             </Link>
+            <Link to="/" title="Logo">
+              <img className="cabcLogoText" src={introText} alt="CABC Logo" />
+            </Link>
+            
            </div>
     </div>
     <section className="section section--gradient">
@@ -51,6 +56,7 @@ export const IndexPageTemplate = ({
             <div className="column is-10 is-offset-1">
               <div className="content">
                 <div className="content">
+                <h3>Our Mission Statement</h3>
                   <div className="tile">
                     <h1 className="title">{mainpitch.title}</h1>
                   </div>
@@ -61,7 +67,7 @@ export const IndexPageTemplate = ({
                       {heading}
                     </h3> */}
                      <div className="tile">
-                  <h2 className="overSizedHeading">Our Purpose</h2>
+                  <h3>Our Purpose</h3>
                     {/* <h3 className="subtitle">{mainpitch.description}</h3> */}
                   
                   </div>
