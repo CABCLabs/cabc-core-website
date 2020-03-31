@@ -5,7 +5,7 @@ import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 const MotivationGrid = ({ gridItems }) => (
   <div className="columns is-multiline">{gridItems.map(item => (
     <div className="seedBox is-parent column is-3" key={item.id}>
-    <img className="seedImage" src={item.imageReason.image }/>
+    <img className="seedImage" src={item.imageReason.image}/>
       <p className="reasonDescription" key={item} >
             {item.reason}
       </p>
@@ -17,8 +17,8 @@ const MotivationGrid = ({ gridItems }) => (
 MotivationGrid.propTypes = {
   gridItems: PropTypes.arrayOf(
     PropTypes.shape({
-      image: PropTypes.oneOfType([PropTypes.object]),
       text: PropTypes.string,
+      image: PropTypes.string,
     })
   ),
 }
