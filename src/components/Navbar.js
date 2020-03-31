@@ -49,6 +49,8 @@ const Navbar = class extends React.Component {
   <input class="menu-btn" type="checkbox" id="menu-btn" />
   <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
   <ul class="menu">
+  <div className="menuHolderImage">
+              </div>
   <li><Link className="navbar-item" to="/">
    Home
               </Link></li>

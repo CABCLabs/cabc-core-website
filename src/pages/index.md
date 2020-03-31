@@ -21,23 +21,41 @@ mainpitch:
 description: N/A
 purpose:
   motivations:
-    - number: 1
-      reason: >-
-        To harness factual, and evidence-based social media information that
-        form the foundation of our work. 
-    - number: 2
-      reason: >-
+    - reason: >-
+        To harness factual, and evidence-based social media information that form the foundation of our work.
+      imageReason:
+        alt: A close-up of a paper filter filled with ground coffee
+        image: /img/1.png
+    - reason: >-
         To combat online misinformation used to distort narratives, undermine
         democracies, and threaten elections.  
+      imageReason:
+        alt: A close-up of a paper filter filled with ground coffee
+        image: /img/2.png
     - reason: >-
         To generate healthy and respectful debate and dialogue, to stimulate
         much-needed conversations around serious issues affecting our society.
+      imageReason:
+        alt: A close-up of a paper filter filled with ground coffee
+        image: /img/3.png
     - reason: 'To enlighten people, so they can make their own decisions.'
+      imageReason:
+        alt: A close-up of a paper filter filled with ground coffee
+        image: /img/4.png
     - reason: To encourage and grow active citizenry.
+      imageReason:
+        alt: A close-up of a paper filter filled with ground coffee
+        image: /img/5.png 
     - reason: 'To help facilitate positive social and environmental change.  '
+      imageReason:
+        alt: A close-up of a paper filter filled with ground coffee
+        image: /img/6.png 
     - reason: >-
         To attempt to effect narrative and behavioural change around issues of
-        key social concern. 
+        key social concern.
+      imageReason:
+        alt: A close-up of a paper filter filled with ground coffee
+        image: /img/7.png 
 intro:
   blurbs:
     - image: /img/cdclogo.png

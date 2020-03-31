@@ -2,6 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import { Link, graphql } from 'gatsby'
 import logo from '../img/cabc-logo.png'
+import introText from '../img/sowingSeeds.png'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import Motivations from '../components/Motivations'
@@ -25,7 +26,7 @@ export const IndexPageTemplate = ({
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-        backgroundPosition: `top left`,
+        backgroundPosition: `bottom center`,
         backgroundAttachment: `fixed`,
       }}
     >
@@ -42,15 +43,19 @@ export const IndexPageTemplate = ({
              <Link to="/" title="Logo">
               <img className="cabcLogo" src={logo} alt="CABC Logo" />
             </Link>
+            <Link to="/" title="Intro Text">
+              <img className="cabcLogoText" src={introText} alt="Intro Text" />
+            </Link>
            </div>
     </div>
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
           <div className="columns">
-            <div className="column is-10 is-offset-1">
+            <div className="column is-12">
               <div className="content">
                 <div className="content">
+                <h3>Our Mission Statement</h3><br/>
                   <div className="tile">
                     <h1 className="title">{mainpitch.title}</h1>
                   </div>
@@ -61,7 +66,7 @@ export const IndexPageTemplate = ({
                       {heading}
                     </h3> */}
                      <div className="tile">
-                  <h2 className="overSizedHeading">Our Purpose</h2>
+                  <h3 style={{marginBottom: '40px'}}>Our Purpose</h3>
                     {/* <h3 className="subtitle">{mainpitch.description}</h3> */}
                   
                   </div>
@@ -161,6 +166,17 @@ export const pageQuery = graphql`
         description
         purpose {
           motivations {
+            imageReason {
+              alt
+              image {
+                id
+                childImageSharp {
+                  fluid(maxWidth: 2048, quality: 60) {
+                    ...GatsbyImageSharpFluid
+                  }
+                }
+              }
+            }
             reason
             }
             }
@@ -179,6 +195,6 @@ export const pageQuery = graphql`
           description
         }
       }
-    }
   }
+}
 `
