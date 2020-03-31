@@ -110,7 +110,7 @@ IndexPageTemplate.propTypes = {
   description: PropTypes.string,
   purpose: PropTypes.shape({
     movations: PropTypes.array,
-  }),
+    }),
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
   }),
@@ -168,14 +168,7 @@ export const pageQuery = graphql`
           motivations {
             imageReason {
               alt
-              image {
-                id
-                childImageSharp {
-                  fluid(maxWidth: 2048, quality: 60) {
-                    ...GatsbyImageSharpFluid
-                  }
-                }
-              }
+              image
             }
             reason
             }

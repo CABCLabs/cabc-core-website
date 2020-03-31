@@ -5,7 +5,7 @@ import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 const MotivationGrid = ({ gridItems }) => (
   <div className="columns is-multiline">{gridItems.map(item => (
     <div className="seedBox is-parent column is-3" key={item.id}>
-    <img className="seedImage" src={ !!item.imageReason.image.childImageSharp ? item.imageReason.image.childImageSharp.fluid.src : item.imageReason.image}/>
+    <img className="seedImage" src={item.imageReason.image }/>
       <p className="reasonDescription" key={item} >
             {item.reason}
       </p>
