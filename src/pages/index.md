@@ -38,15 +38,18 @@ purpose:
       imageReason:
         alt: A close-up of a paper filter filled with ground coffee
         image: /img/3.png
-    - reason: 'To enlighten people, so they can make their own decisions.'
+    - reason: >-
+        To enlighten people, so they can make their own decisions.
       imageReason:
         alt: A close-up of a paper filter filled with ground coffee
         image: /img/4.png
-    - reason: To encourage and grow active citizenry.
+    - reason >-
+        To encourage and grow active citizenry.
       imageReason:
         alt: A close-up of a paper filter filled with ground coffee
         image: /img/5.png 
-    - reason: 'To help facilitate positive social and environmental change.  '
+    - reason: >-
+        To help facilitate positive social and environmental change.  '
       imageReason:
         alt: A close-up of a paper filter filled with ground coffee
         image: /img/6.png 
@@ -56,6 +59,7 @@ purpose:
       imageReason:
         alt: A close-up of a paper filter filled with ground coffee
         image: /img/7.png 
+      
 intro:
   blurbs:
     - image: /img/cdclogo.png
