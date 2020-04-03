@@ -10,9 +10,21 @@ heading: >-
 subheading: Uhuru Kenyatta
 mainpitch:
   title: >-
-    We are fact-finders, we are truth seekers, and we exist to empower people
-    with information so that we can effect positive change in our society,
-    through engagement, dialogue and advocacy.
+    ###### To encourage and grow active citizenship, and to use our skills and
+    shared knowledge to help create positive social and environmental change for
+    South Africa, Africa and the world.
+
+
+    ###### We harness factual, and evidence-based social media data and
+    analytics to enlighten and educate people, and to combat dialogue
+    manipulation and misinformation used for the purposes of political power,
+    greed and corruption.
+
+
+    ###### To this end, our aim is to generate healthy and respectful debate and
+    dialogue, to stimulate much-needed conversations around serious issues
+    affecting our society, and to ultimately change negative thinking and
+    behaviours.
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
