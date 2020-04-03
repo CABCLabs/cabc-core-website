@@ -58,7 +58,7 @@ export const IndexPageTemplate = ({
                 <div className="content">
                 <h3>Our Mission Statement</h3>
                   <div className="tile">
-                    <span>{mainpitch.title}</span>
+                  <Motivations gridItems={purpose.motivations} />
                   </div>
                 </div>
                 {/* <div className="columns">
@@ -66,11 +66,11 @@ export const IndexPageTemplate = ({
                     {/* <h3 className="has-text-weight-semibold is-size-2">
                       {heading}
                     </h3> */}
-                     <div className="tile">
+                     {/* <div className="tile">
                   <h3>Our Purpose</h3>
                     {/* <h3 className="subtitle">{mainpitch.description}</h3> */}
                   
-                  </div>
+                  {/* </div>
                   <Motivations gridItems={purpose.motivations} />
                   </div>
                 </div> */}
@@ -93,8 +93,8 @@ export const IndexPageTemplate = ({
                     </Link>
                   </div>
                 </div> */}
-              {/* </div> */}
-            {/* </div> */}
+              </div>
+            </div>
           </div>
         </div>
       </div>
