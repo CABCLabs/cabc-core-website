@@ -35,21 +35,20 @@ purpose:
   motivations:
     - number: 1
       reason: >-
-        To harness factual, and evidence-based social media information that
-        form the foundation of our work. 
+        To encourage and grow active citizenship, and to use our skills and
+        shared knowledge to help create positive social and environmental change
+        for South Africa, Africa and the world
     - number: 2
       reason: >-
-        To combat online misinformation used to distort narratives, undermine
-        democracies, and threaten elections.  
+        We harness factual, and evidence-based social media data and analytics
+        to enlighten and educate people, and to combat dialogue manipulation and
+        misinformation used for the purposes of political power, greed and
+        corruption. 
     - reason: >-
-        To generate healthy and respectful debate and dialogue, to stimulate
-        much-needed conversations around serious issues affecting our society.
-    - reason: 'To enlighten people, so they can make their own decisions.'
-    - reason: To encourage and grow active citizenry.
-    - reason: 'To help facilitate positive social and environmental change.  '
-    - reason: >-
-        To attempt to effect narrative and behavioural change around issues of
-        key social concern. 
+        To this end, our aim is to generate healthy and respectful debate and
+        dialogue, to stimulate much-needed conversations around serious issues
+        affecting our society, and to ultimately change negative thinking and
+        behaviours.
 intro:
   blurbs:
     - image: /img/cdclogo.png
