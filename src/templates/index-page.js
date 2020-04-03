@@ -93,8 +93,8 @@ export const IndexPageTemplate = ({
                     </Link>
                   </div>
                 </div> */}
-              </div>
-            </div>
+              {/* </div> */}
+            {/* </div> */}
           </div>
         </div>
       </div>
