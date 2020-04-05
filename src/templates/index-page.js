@@ -60,9 +60,9 @@ export const IndexPageTemplate = ({
                 </div>
                 <div className="columns">
                   <div className="column is-12">
-                     <p>
+                     <h4 className="missionStatement">
                       {mainpitch.title}
-                    </p> 
+                    </h4> 
                       <div className="tile">
                   <h3>Our Purpose</h3>
                     {/* <h3 className="subtitle">{mainpitch.description}</h3> */}
