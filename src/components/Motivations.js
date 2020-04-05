@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 const MotivationGrid = ({ gridItems }) => (
-  <div className="columns is-multiline">
+  <div style={{marginTop: '10px'}} className="columns is-multiline">
  {gridItems.map(item => (
       <p className="purposeItem" key={item} >
             {item.reason}

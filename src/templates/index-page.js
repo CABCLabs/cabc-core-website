@@ -69,6 +69,10 @@ export const IndexPageTemplate = ({
                   
                   </div>
                   <Motivations gridItems={purpose.motivations} />
+                  <h3>Values statement</h3>
+                  <p>
+                      {mainpitch.description}
+                    </p> 
                   </div>
                 </div>
                 {/* <Features gridItems={intro.blurbs} /> */}
