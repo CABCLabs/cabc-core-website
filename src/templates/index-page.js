@@ -57,23 +57,20 @@ export const IndexPageTemplate = ({
               <div className="content">
                 <div className="content">
                 <h3>Our Mission Statement</h3>
-                  <div className="tile">
-                  <Motivations gridItems={purpose.motivations} />
-                  </div>
                 </div>
-                {/* <div className="columns">
+                <div className="columns">
                   <div className="column is-12">
-                    {/* <h3 className="has-text-weight-semibold is-size-2">
-                      {heading}
-                    </h3> */}
-                     {/* <div className="tile">
+                     <p>
+                      {mainpitch.title}
+                    </p> 
+                      <div className="tile">
                   <h3>Our Purpose</h3>
                     {/* <h3 className="subtitle">{mainpitch.description}</h3> */}
                   
-                  {/* </div>
+                  </div>
                   <Motivations gridItems={purpose.motivations} />
                   </div>
-                </div> */}
+                </div>
                 {/* <Features gridItems={intro.blurbs} /> */}
                 {/* <div className="columns">
                   <div className="column is-12 has-text-centered">
@@ -81,8 +78,8 @@ export const IndexPageTemplate = ({
                       See all products
                     </Link>
                   </div>
-                </div> */}
-                {/* <div className="column is-12">
+                </div> 
+                <div className="column is-12">
                   <h3 className="has-text-weight-semibold is-size-2">
                     Latest stories
                   </h3>
@@ -91,8 +88,8 @@ export const IndexPageTemplate = ({
                     <Link className="btn" to="/blog">
                       Read more
                     </Link>
-                  </div>
-                </div> */}
+                  </div> */}
+                {/* </div> */}
               </div>
             </div>
           </div>
