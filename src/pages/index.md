@@ -10,45 +10,33 @@ heading: >-
 subheading: Uhuru Kenyatta
 mainpitch:
   title: >-
-    ###### To encourage and grow active citizenship, and to use our skills and
-    shared knowledge to help create positive social and environmental change for
-    South Africa, Africa and the world.
 
 
-    ###### We harness factual, and evidence-based social media data and
-    analytics to enlighten and educate people, and to combat dialogue
-    manipulation and misinformation used for the purposes of political power,
-    greed and corruption.
-
-
-    ###### To this end, our aim is to generate healthy and respectful debate and
-    dialogue, to stimulate much-needed conversations around serious issues
-    affecting our society, and to ultimately change negative thinking and
-    behaviours.
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    We are fact-finders, we are truth seekers, and we exist to empower people to
+    effect positive change in society.
+  description: >-
+    CABC innovates and acts in service of the public good and undertakes all its
+    operations in the spirit of collaboration, integrity and transparency. We
+    adopt a progressive stance on the society, politics and the environment,
+    while striving to maintain a non-partisan, evidence-based approach in
+    everything we do.
 description: N/A
 purpose:
   motivations:
-    - number: 1
-      reason: >-
-        To encourage and grow active citizenship, and to use our skills and
-        shared knowledge to help create positive social and environmental change
-        for South Africa, Africa and the world
-    - number: 2
-      reason: >-
-        We harness factual, and evidence-based social media data and analytics
-        to enlighten and educate people, and to combat dialogue manipulation and
-        misinformation used for the purposes of political power, greed and
-        corruption. 
     - reason: >-
-        To this end, our aim is to generate healthy and respectful debate and
-        dialogue, to stimulate much-needed conversations around serious issues
-        affecting our society, and to ultimately change negative thinking and
-        behaviours.
+        To harness factual, and evidence-based social media information that
+        forms the foundation of our work. 
+    - reason: >-
+        To combat online misinformation used to distort narratives, undermine
+        democracies, and threaten elections.  
+    - reason: >-
+        To generate healthy and respectful debate and dialogue, to stimulate
+        much-needed conversations around serious issues affecting our society.
+    - reason: To encourage and grow active citizenry.
+    - reason: 'To help facilitate positive social and environmental change. '
+    - reason: >-
+        To attempt to effect narrative and behavioural change around issues of
+        key social concern. 
 intro:
   blurbs:
     - image: /img/cdclogo.png
