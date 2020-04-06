@@ -25,4 +25,4 @@ We have devised multi-year programmes that cover a wide range of social prejudic
 * Forecasting: developing anticipatory capabilities to predict, detect and mitigate episodes of xenophobic, election, taxi related, service delivery related and other forms of violence.
 * Providing analytics that may support (for example) potential suicide cases, GBV survivors through social media-based analytics and response.
 
-If you’d like to find out more or support our programmes, please contact us for more details: *[info@cabc.org.za](mailto:*info@cabc.org.za)*
+If you’d like to find out more or support our programmes, please contact us for more details: *\[info@cabc.org.za](mailto:*info@cabc.org.za)*
