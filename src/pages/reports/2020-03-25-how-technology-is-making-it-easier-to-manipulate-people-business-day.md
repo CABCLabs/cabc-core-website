@@ -8,7 +8,7 @@ description: >-
   communities were, the more vulnerable people were to propagandistic rhetoric
   and messaging. 
 featuredpost: false
-featuredimage: https://avatars2.githubusercontent.com/u/9041049?s=88&u=d8822b7d2297c639c4b761a0e8c884a51477926a&v=4
+featuredimage: /img/92491854_203607957752862_3156947266325970944_n.jpg
 tags:
   - Media Coverage
 ---
