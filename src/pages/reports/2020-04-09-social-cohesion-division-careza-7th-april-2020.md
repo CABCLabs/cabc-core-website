@@ -12,4 +12,6 @@ featuredimage: /img/dailyreport.jpg
 tags:
   - Daily Reports
 ---
-<iframe src="https://drive.google.com/file/d/119r2Vt7lIOJ4_OZ7aBeYWsmFTP7kXv8R/preview" width="100%" height="500"></iframe>
+<iframe src="https://drive.google.com/file/d/119r2Vt7lIOJ4_OZ7aBeYWsmFTP7kXv8R/preview" width="100%" height="500"></iframe>\
+\
+**[Download Report](https://drive.google.com/u/0/uc?id=119r2Vt7lIOJ4_OZ7aBeYWsmFTP7kXv8R&export=download)**
