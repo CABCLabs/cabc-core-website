@@ -60,7 +60,7 @@ const Footer = class extends React.Component {
         <div className="container has-background-black has-text-white-ter">
             <div className="columns">
               <div className="column is-12 social">
-                <h4 className="footerContact">info@cabc.org.za</h4>
+                <h4 className="footerContact"><a className="footerTextLink" target="blank" href="mailto:info@cabc.org.za">info@cabc.org.za</a><a className="footerTextLink" target="blank" href="https://sacoronavirus.co.za/">sacoronavirus.co.za</a></h4>
               </div>
             </div>
           </div>
