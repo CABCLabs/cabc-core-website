@@ -73,8 +73,12 @@ export const IndexPageTemplate = ({
                   <p>
                       {mainpitch.description}
                     </p> 
+                    <Link to="/tags/daily-reports" title="Daily Reports">
+             <h3 className="cta_big">Daily Reports   &rarr;</h3>
+            </Link>
                   </div>
-                </div>
+                  
+                  </div>
                 {/* <Features gridItems={intro.blurbs} /> */}
                 {/* <div className="columns">
                   <div className="column is-12 has-text-centered">
