@@ -27,6 +27,9 @@ export const ReportPostTemplate = ({
             </h1>
             <p>{description}</p>
             <PostContent content={content} />
+            <Link to={'/reports'}>
+          <h2 className="is-size-4 tagHeadingText">&larr; Back to Reports</h2>
+        </Link>
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
                 <h4>Tags</h4>

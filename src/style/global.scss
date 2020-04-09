@@ -455,3 +455,11 @@ h3 {
 .tagHeadingText:hover { 
   color: #cdcc00!important;
 }
+.reportType { 
+  display: inline-block;
+  padding-right: 30px;
+  padding-bottom: 30px;
+}
+.reportType:hover { 
+text-decoration: underline;
+}

@@ -9,7 +9,18 @@ class ReportRoll extends React.Component {
     const { edges: posts } = data.allMarkdownRemark
 
     return (
+      <div>
+        <Link to={'/tags/daily-reports/'}>
+          <h2 className="is-size-4 tagHeadingText reportType">Daily Reports</h2>
+        </Link>
+        <Link to={'/tags/weekly-reports/'}>
+          <h2 className="is-size-4 tagHeadingText reportType">Weekly Reports</h2>
+        </Link>
+        <Link to={'/tags/thematic-reports/'}>
+          <h2 className="is-size-4 tagHeadingText reportType">Thematic Reports</h2>
+        </Link>
       <div className="columns is-multiline">
+      
         {posts &&
           posts.map(({ node: post }) => (
             <div className="is-parent column is-4" key={post.id}>
@@ -37,22 +48,15 @@ class ReportRoll extends React.Component {
                     >
                       {post.frontmatter.title}
                     </Link>
-                    <span> &bull; </span>
-                    <span className="subtitle is-size-5 is-block">
-                      {post.frontmatter.date}
-                    </span>
                     <p>
-                  {post.excerpt}
                   <br />
                   <br />
-                  <Link className="button" to={post.fields.slug}>
-                    Keep Reading →
-                  </Link>
                 </p>
                   </p>
               </article>
             </div>
           ))}
+      </div>
       </div>
     )
   }
