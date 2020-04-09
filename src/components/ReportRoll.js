@@ -78,7 +78,6 @@ export default () => (
           sort: { order: DESC, fields: [frontmatter___date] }
           filter: { frontmatter: { templateKey: { eq: "report-post" } } }
         ) {
-          group(field: frontmatter___date) {
           edges {
             node {
               excerpt(pruneLength: 400)
@@ -99,7 +98,6 @@ export default () => (
                   }
                 }
               }
-            }
             }
           }
         }
