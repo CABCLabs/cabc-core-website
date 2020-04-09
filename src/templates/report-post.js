@@ -17,14 +17,24 @@ export const ReportPostTemplate = ({
   const PostContent = contentComponent || Content
 
   return (
+        <span>
+          <div
+          className="full-width-image-container margin-top-0"
+          style={{
+            backgroundImage: `url('/img/news.jpg')`,
+          }}
+        >
+          <h1
+            className="blogTitleBox has-text-weight-bold is-size-1"
+          >
+            {title}
+          </h1>
+        </div>
     <section className="section">
       {helmet || ''}
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
             <p>{description}</p>
             <PostContent content={content} />
             <Link to={'/reports'}>
@@ -46,6 +56,7 @@ export const ReportPostTemplate = ({
         </div>
       </div>
     </section>
+    </span>
   )
 }
 

@@ -59,9 +59,8 @@ class TagRoute extends React.Component {
                 <h3 className="title is-size-4 is-bold-light">{tagHeader}</h3>
                 <div className="columns is-multiline">{postLinks}
                 </div>
-               
                 <p>
-                  <Link to="/tags/">Browse all tags</Link>
+                  <Link to="/blog/">Back to News/Media</Link> | <Link to="/reports/">Back to Reports</Link> | <Link to="/tags/">Browse all tags</Link>
                 </p>
               </div>
             </div>
