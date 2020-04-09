@@ -1,0 +1,15 @@
+---
+templateKey: report-post
+title: 'Social Cohesion|Division - #CareZA - 6th April 2020'
+date: 2020-04-06T09:22:16.082Z
+description: >-
+  This DAILY DOSAGE of Data is a high-level summary of the trending, highest
+  impact, and most active Themes & their respective Narratives related to SOCIAL
+  COHESION|DIVISION as identified from South African public-domain social media
+  conversation
+featuredpost: false
+featuredimage: /img/dailyreport.jpg
+tags:
+  - Daily Reports
+---
+<iframe src="https://drive.google.com/file/d/1WDMMQ8fty0SH_GRtD-gnEWU0rWmK5G96/preview" width="100%" height="500"></iframe>
