@@ -13,3 +13,4 @@ tags:
   - Daily Reports
 ---
 <iframe src="https://drive.google.com/file/d/1-IkOkux0ExBjIi2YmOWU7e4yYbU-jyTc/preview" width="100%" height="500"></iframe>
+<a href="https://drive.google.com/u/0/uc?id=1-IkOkux0ExBjIi2YmOWU7e4yYbU-jyTc&export=download" target="blank"><h3><strong>Download Report</h3></strong></a>
