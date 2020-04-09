@@ -10,7 +10,7 @@ export default class ReportIndexPage extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/news.jpg')`,
+            backgroundImage: `url('/img/reports.jpg')`,
           }}
         >
           <h1
