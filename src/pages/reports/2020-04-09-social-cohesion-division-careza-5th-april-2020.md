@@ -12,4 +12,4 @@ featuredimage: /img/dailyreport.jpg
 tags:
   - Daily Reports
 ---
-<iframe src="https://drive.google.com/file/d/1lpo9FupdKqyGeVDNpL5D0sNxbg1557fB/preview" width="700" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1ICvCeifDkuaLNiWUuqrfCJKD0nXife51/preview" width="100%" height="500"></iframe>
