@@ -1,0 +1,15 @@
+---
+templateKey: report-post
+title: 'mis|dis Information - #CareZA - 6th April 2020'
+date: 2020-04-06T09:25:00.041Z
+description: >-
+  This DAILY DOSAGE of Data is a high-level summary of the trending, highest
+  impact, and most active Themes & their respective Narratives related to
+  MIS|DIS INFORMATION as identified from South African public-domain social
+  media conversation
+featuredpost: false
+featuredimage: /img/dailyreport.jpg
+tags:
+  - Daily Reports
+---
+<iframe src="https://drive.google.com/file/d/1-IkOkux0ExBjIi2YmOWU7e4yYbU-jyTc/preview" width="100%" height="500"></iframe>
