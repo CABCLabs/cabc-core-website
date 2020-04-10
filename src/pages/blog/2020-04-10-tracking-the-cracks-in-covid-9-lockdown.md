@@ -2,16 +2,12 @@
 templateKey: blog-post
 title: "Tracking the cracks in Covid-9 lockdown "
 date: 2020-04-10T09:54:04.179Z
-description: A unique peek into how South Africans are responding to the
-  Covid-19 crisis on social media is revealing the dynamics of social cohesion
-  across the country.
+description: MEDIA RELEASE  09 April 2020
 featuredpost: false
 featuredimage: /img/covid.jpg
 tags:
   - Press Releases
 ---
-**MEDIA RELEASE  09 April 2020**
-
 ISSUED BY: **Centre for Analytics and Behavioural Change / #careZA**
 
 A unique peek into how South Africans are responding to the Covid-19 crisis on social media is revealing the dynamics of social cohesion across the country. Cutting edge social media analytics are being used to weed out bizarre examples of mis-information, and some deliberate dis-information, that is being spread as the pandemic unfolds.
