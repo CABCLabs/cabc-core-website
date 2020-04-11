@@ -12,7 +12,7 @@ tags:
   - Daily Reports
   - Trends
 ---
-<a href="https://drive.google.com/u/0/uc?id=1WnObDwKG0YcB_vxVqpEevJ85Z_MxdpXi&export=download" target="blank"><strong>Download Report</strong></a>
+<a href="https://drive.google.com/u/0/uc?id=1Kfj84JkZtbzXxzrgCpusFdAgbdQhY0yL&export=download" target="blank"><strong>Download Report</strong></a>
 
 **11 April 2020**
 
