@@ -6,7 +6,7 @@ description: >
   This is a summary of the trending, highest impact, and most active themes and
   their narratives related to social cohesion and division in South African
   public-domain social media conversations.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/24hours.jpg
 tags:
   - Daily Reports
