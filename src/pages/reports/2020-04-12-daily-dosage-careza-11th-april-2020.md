@@ -13,4 +13,5 @@ tags:
   - Daily Reports
 ---
 <iframe src="https://drive.google.com/file/d/1y1iWmUue7yYsbR2KgXDfkOc7gMjLedIG/preview" width="100%" height="500"></iframe>
-<a href="https://drive.google.com/u/0/uc?id=1y1iWmUue7yYsbR2KgXDfkOc7gMjLedIG&export=download" target="blank"><h3><strong>Download Report</h3></strong></a>
+<a href="https://drive.google.com/u/0/uc?id=1y1iWmUue7yYsbR2KgXDfkOc7gMjLedIG&export=download" target="blank"><h3><strong>Download Report (PDF)</h3></strong></a>
+<a href="https://docs.google.com/presentation/d/1aQyHTzIxpCTgYzac51PZMSOUldqACBZjGNFAEu3JaQQ/edit?usp=sharing" target="blank"><h3><strong>Download Report (PowerPoint)</h3></strong></a>
