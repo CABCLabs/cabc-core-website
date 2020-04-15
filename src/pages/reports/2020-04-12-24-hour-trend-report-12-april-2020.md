@@ -5,7 +5,8 @@ date: 2020-04-12T09:25:03.687Z
 description: >
   This is a summary of the trending, highest impact, and most active themes and
   their narratives related to social cohesion and division in South African
-  public-domain social media conversations.
+  public-domain social media conversations. A 24-hour trend report can be
+  downloaded for media.
 featuredpost: false
 featuredimage: /img/24hours.jpg
 tags:
