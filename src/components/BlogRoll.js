@@ -27,7 +27,7 @@ class BlogRoll extends React.Component {
           console.log(date, posts);
           return (
             <div className="blog-day-block">
-              <h2>{date}</h2>
+              <h4 className="content dateTitle">{date}</h4>
               <div className="columns is-multiline">
                 {posts &&
                   posts.map((post) => (
@@ -37,8 +37,13 @@ class BlogRoll extends React.Component {
                           post.frontmatter.featuredpost ? "is-featured" : ""
                         }`}
                       >
+                      
+                      <Link
+                             to={post.fields.slug}
+                           >
                         <header>
                           {post.frontmatter.featuredimage ? (
+                           
                             <div className="featured-thumbnail">
                               <PreviewCompatibleImage
                                 imageInfo={{
@@ -47,8 +52,11 @@ class BlogRoll extends React.Component {
                                 }}
                               />
                             </div>
+                           
                           ) : null}
+                          
                         </header>
+                        </Link>
                         <p className="post-meta">
                           <Link
                             className="title has-text-primary is-size-4"
@@ -56,18 +64,10 @@ class BlogRoll extends React.Component {
                           >
                             {post.frontmatter.title}
                           </Link>
-                          <span> &bull; </span>
                           {/* <span className="subtitle is-size-5 is-block">
                             {post.frontmatter.date}
                           </span> */}
-                          <p>
-                            {post.excerpt}
-                            <br />
-                            <br />
-                            <Link className="button" to={post.fields.slug}>
-                              Keep Reading →
-                            </Link>
-                          </p>
+                        
                         </p>
                       </article>
                     </div>
@@ -107,7 +107,7 @@ export default () => (
               frontmatter {
                 title
                 templateKey
-                date
+                date(formatString: "DD/MM/YYYY")
                 featuredpost
                 featuredimage {
                   childImageSharp {
