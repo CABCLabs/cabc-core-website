@@ -5,6 +5,13 @@ module.exports = {
       'The Centre for Analytics and Behavioural Change (CABC) was created out of a dire need to right the wrongs perpetrated against our society for the pursuit of profit and power.',
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        // replace "UA-XXXXXXXXX-X" with your own Tracking ID
+        trackingId: "UA-164001794-1",
+      },
+    },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
