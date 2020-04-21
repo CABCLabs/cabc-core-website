@@ -1,6 +1,6 @@
 ---
 templateKey: report-post
-title: 24 Hour Trend Report | 19 April 2020
+title: 24 Hour Trend Report | 20 April 2020
 date: 2020-04-20T09:50:00.000Z
 description: >
   This is a summary of the trending, highest impact, and most active themes and
