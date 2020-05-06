@@ -8,7 +8,7 @@ description: >
   COHESION & DIVISION MIS & DIS INFORMATION as identified from South African
   public-domain social media conversation
 featuredpost: false
-featuredimage: /img/dailyreport.jpg
+featuredimage: /img/dailyreports.jpg
 tags:
   - Daily Reports
 ---
