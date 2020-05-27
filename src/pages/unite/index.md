@@ -9,7 +9,7 @@ title: Let’s stand together as one
 
 We had the privilege of filming Precious, a Zimbabwean who, together with her team, feeds hundreds every week in Vygrond, Cape Town. Our gratitude also goes to Niren Budhram whose Budorie’s food truck business was put on hold during lockdown, so he cooks for the Vygrond community as well, and has financed this out of his own pocket, with some donations from friends and family. Thanks to Soweto TV and the SABC for highlighting the donations by Somalian and other foreign shop owners.
 
-Music by Moby (mobygratis.com)
+*Music by Moby (mobygratis.com)*
 
 ## **Be kind, and be an active citizen**
 
@@ -45,25 +45,25 @@ South Africa’s healthcare system will be tested during the Covid-19 outbreak, 
 
 Angel’s Care provides services for children from informal settlements in the uMngeni municipal area in KZN which include preschool education, aftercare facilities, a feeding scheme, healthcare programmes and a crisis centre for children who are victims of gender-based violence. Due to Covid-19, the preschool has had to close but the centre will drop off food packs (including sanitisers) to 100 children under five and will continue their feeding scheme at the centre while adhering to the under 100 persons regulation. They will keep the Rape and Abuse Crisis Centre open.
 
-**What they need:**Cash donations or goods: nappies, lotion, soap, hand sanitiser, deodorant, panties, women’s clothing, baby food and non-perishables.
+**What they need:** Cash donations or goods: nappies, lotion, soap, hand sanitiser, deodorant, panties, women’s clothing, baby food and non-perishables.
 
-**What the funds will buy:**Nappies, lotion, soap, hand sanitiser, deodorant, panties, women’s clothing, baby food and non-perishables
+**What the funds will buy:** Nappies, lotion, soap, hand sanitiser, deodorant, panties, women’s clothing, baby food and non-perishables
 
-**Who the goods will go to:**Young mothers, children and families who rely on the support of the centre in the uMngeni municipal area in KZN
+**Who the goods will go to:** Young mothers, children and families who rely on the support of the centre in the uMngeni municipal area in KZN
 
-**Where to donate:**Cash donations can be made on their[website](http://www.angelscare.co.za/donate)and goods can be dropped off at the centre in Howick, KZN.
+**Where to donate:** Cash donations can be made on their [website](http://www.angelscare.co.za/donate) and goods can be dropped off at the centre in Howick, KZN.
 
 #### **FeedSA**
 
 <http://www.feedsa.co.za>
 
-Founded in 2000,[Feed SA](http://www.feedsa.co.za/)has three main goals: to feed, educate and help develop underprivileged communities. The organisation has created a[Covid-19 Action Plan](http://www.feedsa.co.za/covid19-action-plan/)to help those who will be hit hardest as a result of the virus. R480 can sustain a family of four for 14 days, explains Feed SA.
+Founded in 2000, [Feed SA](http://www.feedsa.co.za/) has three main goals: to feed, educate and help develop underprivileged communities. The organisation has created a [Covid-19 Action Plan](http://www.feedsa.co.za/covid19-action-plan/) to help those who will be hit hardest as a result of the virus. R480 can sustain a family of four for 14 days, explains Feed SA.
 
-**What they need:**Cash donations
+**What they need:** Cash donations
 
-**What the funds will buy:**Bulk packs containing: non-perishable foods, personal hygiene / sanitary items, cleaning materials and household essentials
+**What the funds will buy:** Bulk packs containing: non-perishable foods, personal hygiene / sanitary items, cleaning materials and household essentials
 
-**Who the goods will go to:**They aim to provide for 5,000 households in Alexandra
+**Who the goods will go to:** They aim to provide for 5,000 households in Alexandra
 
 **Where to donate:** Via [PayFast on their website](http://www.feedsa.co.za/covid19-action-plan/)
 
@@ -83,7 +83,7 @@ CLAW is a welfare organisation, renowned as the pioneer of community-based prima
 Location:\
 Garmin co-ordinates:\
 S 26°10.275' E027°51.764'\
-Or download map at[http://www.claw-sa.org/images/CLAWmap.pdf](http://www.claw-sa.org/images/CLAWmap.pdf?fbclid=IwAR2j7wi5GbL2giOabLDevNf9jtIyZRfa08NNVDSVX61MwYYV5poClpgOQ2U)
+Or download map at [http://www.claw-sa.org/images/CLAWmap.pdf](http://www.claw-sa.org/images/CLAWmap.pdf?fbclid=IwAR2j7wi5GbL2giOabLDevNf9jtIyZRfa08NNVDSVX61MwYYV5poClpgOQ2U)
 
 Cash donations to be made into the CLAW account:
 
@@ -117,7 +117,7 @@ Established in 1980, Operation Hunger is a registered South African Non-Profit O
 
 **What they need:**Cash donations
 
-**What the funds will buy:** Hampers will contain a variety of non-perishable itemsand other essentials
+**What the funds will buy:** Hampers will contain a variety of non-perishable items and other essentials
 
 **Who the goods will go to:** Impoverished communities around South Africa
 
