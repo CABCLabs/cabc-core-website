@@ -33,7 +33,9 @@ A [post](https://twitter.com/SAfmnews/status/1266073106508066817) by SAfm news s
 Former DA leader Mmusi Maimane asked why the media’s focus has been on cigarettes and not schools in a[ tweet](https://twitter.com/MmusiMaimane/status/1265997118826786818) that reached almost 4 000 likes, retweets and comments.\
 Many religious leaders have decided to keep the doors to their places of worship closed. The Muslim Judicial Council advised mosques in the Western Cape to remain closed for another month during level 3. The Claremont Main Road mosque also decided to stay closed, in a [post](https://twitter.com/ShuaibManjra/status/1265738399354425344) that was widely shared, garnering over 1 500 likes, retweets and comments. This post was also retweeted by Mmusi Maimane.
 
-**Testing backlog**Western Cape Premier Alan Winde said the national backlog for COVID-19 testing was 100 000 tests. Winde said the WC provincial testing strategy had changed: instead of testing as many potential contacts of confirmed cases as possible, tests were now reserved for patients in hospitals.
+**Testing backlog**
+
+Western Cape Premier Alan Winde said the national backlog for COVID-19 testing was 100 000 tests. Winde said the WC provincial testing strategy had changed: instead of testing as many potential contacts of confirmed cases as possible, tests were now reserved for patients in hospitals.
 
 Later in the day, [@News24](https://twitter.com/News24/status/1266040853312790533) tweeted confirmation that the Department of Health acting DG, Dr Anban Pillay, said the National Health Laboratory Services had a backlog of 80 000 tests for COVID-19.
 
@@ -42,7 +44,9 @@ Later in the day, [@News24](https://twitter.com/News24/status/126604085331279053
 While online jokes about a famous Cape Town club being a place of worship for some made the rounds, some accounts used humour to start conversations with more serious, and more sinister, undertones.\
 After the National Coronavirus Command Council released level 3 regulations, some Twitter users poked fun at rules they deemed to be arbitrary. At 18:16 an account called[@Propaganda24](https://twitter.com/Propoganda24)[tweeted](https://twitter.com/Propoganda24/status/1266040615051169792)for the first time since 2018: “Ramaphosa says that Coronavirus regulations will remain in place until the middle class is completely eliminated”. By this morning. the post had been liked 268 times and retweeted 153 times. In another attempt to spread social discord, the fake news page went on to[tweet](https://twitter.com/Propoganda24/status/1266075817542639617)at 20:36 that “Dlamini Zuma says the communist takeover of South Africa is well on track. The Whites don’t even realise, they are all watching DSTV.” This post was retweeted 74 times by this morning, and not all readers seem to be aware that the quote is fake. Some commented that the current ANC and EFF are “black Nazi’s” or “Zimbabwe 2.0”. At 21:00, the account tweeted more false information, saying government had unexpectedly lifted the ban on the sale of cigarettes at level 3. The sale of tobacco products remains banned under level 3.
 
-**Hairdressing to impress**Trending by volume and burst were 2 tweets by @NikeshKooverjee. [The first twee](https://twitter.com/NikeshKooverjee/status/1266025488612540416)t at 17:16 has been retweeted over 600 times and has received more than 1 500 likes: he said the Department of Health confirmed that haircuts would be allowed only for those who were in a relationship because single people did not have anybody to impress. At 17:31, he followed up with [The Chilli Bar](https://twitter.com/NikeshKooverjee/status/1266029374572290049) being granted permission to operate at level 3 because it was considered a place of worship. Responses inlcuded: “bro, you almost had me” and “This man is playing with people’s feelings”. 
+**Hairdressing to impress**
+
+Trending by volume and burst were 2 tweets by @NikeshKooverjee. [The first twee](https://twitter.com/NikeshKooverjee/status/1266025488612540416)t at 17:16 has been retweeted over 600 times and has received more than 1 500 likes: he said the Department of Health confirmed that haircuts would be allowed only for those who were in a relationship because single people did not have anybody to impress. At 17:31, he followed up with [The Chilli Bar](https://twitter.com/NikeshKooverjee/status/1266029374572290049) being granted permission to operate at level 3 because it was considered a place of worship. Responses inlcuded: “bro, you almost had me” and “This man is playing with people’s feelings”. 
 
 End
 
@@ -54,9 +58,7 @@ A deep analysis on any of these issues is available on request.
 
 **About CABC**
 
-The Centre for Analytics and Behavioural Change (CABC) is a non-profit organisation based at UCTs Graduate School of Business and incubated by the Allan Gray Centre for Values-Based Leadership. It was established to track and counter mis- and disinformation, fake news and divisive and polarising rhetoric that is promulgated online to undermine social cohesion, democratic integrity, and the stability of nation states.\
-<!--\[if !supportLineBreakNewLine]-->\
-<!--\[endif]-->
+The Centre for Analytics and Behavioural Change (CABC) is a non-profit organisation based at UCTs Graduate School of Business and incubated by the Allan Gray Centre for Values-Based Leadership. It was established to track and counter mis- and disinformation, fake news and divisive and polarising rhetoric that is promulgated online to undermine social cohesion, democratic integrity, and the stability of nation states.
 
 **For media enquiries, please contact Praveen Naidoo**
 
