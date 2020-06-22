@@ -9,7 +9,7 @@ description: "For the period of 03 June - 09 June the Protest Query run by CABC
   analysis and commentary on those protests, as well as on the online
   conversation about protests in South Africa. "
 featuredpost: false
-featuredimage: /img/commentary.jpg
+featuredimage: /img/dailyreport.jpg
 tags:
   - Weekly Reports
   - Trends
