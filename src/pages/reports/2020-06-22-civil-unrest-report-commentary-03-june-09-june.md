@@ -1,7 +1,7 @@
 ---
 templateKey: report-post
 title: "Civil Unrest Report Commentary:  03 June - 09 June"
-date: 2020-06-22T07:29:04.120Z
+date: 2020-06-09T07:29:04.120Z
 description: "For the period of 03 June - 09 June the Protest Query run by CABC
   returned:18 610 mentions. 9 956 unique authors were involved in the
   conversation. Using that query 28 separate protests were identified as having
