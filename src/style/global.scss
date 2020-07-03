@@ -10,6 +10,9 @@
     width: 100%;
     z-index: 3;
   }
+  .donateMobile { 
+    display: none;
+  }
   .section { 
     padding: 1rem 1.5rem;
   }
@@ -303,6 +306,9 @@ z-index: 2;
   
   @media (max-width: 48em) {
     // STYLING QUOTE AREA // 
+    .donateMobile { 
+      display: initial;
+    }
 .mainQuoteText { 
     width: 100%;
     margin-left: auto;
@@ -514,3 +520,12 @@ font-weight: 400!important;
   transition: box-shadow 0.3s linear;
 }
 .dateTitle { padding: 15px 10px; background: #343334; width: fit-content; min-width: 150px;}
+.donateButton { 
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.donateButton:hover { 
+  filter: brightness(130%);
+}
