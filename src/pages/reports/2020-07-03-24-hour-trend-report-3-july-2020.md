@@ -12,6 +12,8 @@ tags:
   - Daily Reports
   - Trends
 ---
+<a target="blank" href="https://drive.google.com/u/0/uc?id=1MvU_unZjqzIvRkIQdJl6WAhrdSkPLN0t&export=download">Download Report (PDF)</a>
+
 **Access to essential services**
 
 Two posts about a lack of access to essential services, such as water and electricity, referenced the President and drove conversation. At 00:22, @isaac_hlungwana [tweeted a video](https://twitter.com/isaac_hlungwana/status/1278453845237039104) of two women in a brawl supposedly over water containers. The tweet included the text: “After 26 years of democracy our parents are fighting for water, the anc has failed our people. #cyrilramaphosa”. The post was retweeted 1 700 times and received more than 500 comments. Adding context to the post, [one person](https://twitter.com/judromajuda/status/1278538003657437185) explained: “This happened in ga sekororo limpopo”. Most of the commentary expressed criticism of the ANC and the EFF.
@@ -57,6 +59,8 @@ Later that day, @News24 [tweeted](https://twitter.com/News24/status/127866042329
 Some Twitter users argued that the City of Cape Town has historically demonstrated bias towards the poor. On Wednesday 01 June 2020, @tumisole [shared](https://twitter.com/tumisole/status/1278430956353970177) four screenshots of articles related to racism and the treatment of poor people in Cape Town. The tweet read: “#CityOfCapeTown #KnowYourDA. The @CityofCT has been anti poor for years!” This received attention the following day with 476 retweets and 638 likes.
 
 On Thursday 02 June 2020, EFF Deputy President @Floyd Shivambu, retweeted an original [post](https://twitter.com/ErnstRoets/status/1278735244502405120) by AfriForum Head of Policy and Action @ErnstRoets, which included a link to an article on the Afriforum website. The original post read: “ANC’s continued insistence on expropriation without compensation will harm everyone”. This received 245 retweets and 503 likes. The [retweet](https://twitter.com/FloydShivambu/status/1278739466765688834) by @FloydShivambu read: “The same way your murderous forefathers, most of whom were convicts harmed indigenous Africans through colonial barbarism. Land expropriation without compensation will happen and the sooner you accept the better boertjie!!” This generated 382 retweets and 1 000 likes.[](<>)
+
+<a target="blank" href="https://drive.google.com/u/0/uc?id=1MvU_unZjqzIvRkIQdJl6WAhrdSkPLN0t&export=download">Download Report (PDF)</a>
 
 [](<>)END
 
