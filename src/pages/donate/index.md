@@ -13,7 +13,7 @@ title: Donate
 
 
 Our programmes use a blend of advanced social media analytics and research, engagement, dialogue, advocacy and creative content. These programmes have the power to reach millions of people. We work on a variety of social themes including; racism, ethnic prejudice, xenophobia, public unrest, misogyny, gender-based violence, LGBTQI rights, extremism, sustainability and HIV/AIDS. </p>
-<p>By donating to us, you are contributing to the creation of a better society for all those who live in it. All donations are tax-deductible, and we will issue you with a certificate after receiving your donation should you require one. No contribution is too small. Please support us in our fight for you and donate below</p>
+<p>By donating to us, you are contributing to the creation of a better society for all those who live in it. All donations are tax-deductible, and we will issue you with a certificate after receiving your donation should you require one. No contribution is too small. Please support us in our fight for you and donate below.</p>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick" />
