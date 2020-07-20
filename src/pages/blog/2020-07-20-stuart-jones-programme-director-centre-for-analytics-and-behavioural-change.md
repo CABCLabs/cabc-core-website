@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: STUART JONES - Programme Director CENTRE FOR ANALYTICS AND BEHAVIOURAL CHANGE
+title: SAFm Jet Set Breakfast STUART JONES - Civil Unrest Report
 date: 2020-07-11T09:28:04.670Z
 description: The Centre for Analytics and Behavioural Change (CABC) is based at
   the Centre for Values Based Leadership at UCT's Graduate School of Business.
