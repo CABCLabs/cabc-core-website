@@ -5,7 +5,7 @@ title: SmileFM What does the Civil Unrest report reveal? Stuart Jones with
 date: 2020-07-16T10:51:25.651Z
 description: Stuart Jones says there was lot of talk around Covid with potential
   flashpoints looming.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/algoa.png
 tags:
   - Media Coverage
