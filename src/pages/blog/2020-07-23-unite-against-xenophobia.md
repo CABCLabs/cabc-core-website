@@ -12,6 +12,10 @@ featuredimage: /img/unite.jpg
 tags:
   - News
 ---
-The film includes footage of one of the many community kitchens in Vygrond in Cape Town, and follows Precious, a Zimbabwean, who together with her team, feeds hundreds of hungry people every week. It shows masked men and women from South Africa and other African nations and diverse faiths, coming together to prepare and distribute food to masked people in Cape Town. The masks may protect us from the virus but they also hide our identities, proving that it doesn’t matter where we come from, because kindness can come from anywhere.
+The film includes footage of one of the many community kitchens in Vygrond in Cape Town, and follows Precious, a Zimbabwean, who together with her team, feeds hundreds of hungry people every week. It shows masked men and women from South Africa and other African nations and diverse faiths, coming together to prepare and distribute food to masked people in Cape Town. The masks may protect us from the virus but they also hide our identities, proving that it doesn’t matter where we come from, because kindness can come from anywhere.\
+\
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/r5Mc8WcO-fk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 The film reached more than a million people, it had 3709 reactions on Facebook and 1163 shares.
