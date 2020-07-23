@@ -8,7 +8,7 @@ description: The Centre for Analytics and Behavioural Change (CABC) is based at
   fractures in social cohesion in South Africa during the COVID-19 crisis. The
   CABC also provides analysis on other issues through a SoMe lens that threaten
   the fragile fabric of South African society through public opinion.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/algoa.png
 tags:
   - Media Coverage
