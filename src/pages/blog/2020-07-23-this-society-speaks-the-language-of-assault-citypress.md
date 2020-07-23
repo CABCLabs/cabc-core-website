@@ -5,7 +5,7 @@ date: 2020-07-19T12:33:25.157Z
 description: While the scourge of the abuse of women and children in SA may be
   exacerbated by alcohol, its cause lies in something deeper than a bottle,
   writes Cameren Peter.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/algoa.png
 tags:
   - Media Coverage
