@@ -5,7 +5,7 @@ date: 2020-07-19T10:45:36.292Z
 description: South Africans around the country debated whether alcohol was the
   trigger for gender-based violence, or whether violence was more deeply rooted
   in our society. This is how the debate played out.
-featuredpost: true
+featuredpost: false
 featuredimage: /img/algoa.png
 tags:
   - Media Coverage
