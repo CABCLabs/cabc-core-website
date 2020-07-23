@@ -10,7 +10,7 @@ description: The CABC's team of analysts discovered that xenophobic narratives
 featuredpost: false
 featuredimage: /img/unite.jpg
 tags:
-  - News
+  - Blog
 ---
 The film includes footage of one of the many community kitchens in Vygrond in Cape Town, and follows Precious, a Zimbabwean, who together with her team, feeds hundreds of hungry people every week. It shows masked men and women from South Africa and other African nations and diverse faiths, coming together to prepare and distribute food to masked people in Cape Town. The masks may protect us from the virus but they also hide our identities, proving that it doesn’t matter where we come from, because kindness can come from anywhere.\
 \
