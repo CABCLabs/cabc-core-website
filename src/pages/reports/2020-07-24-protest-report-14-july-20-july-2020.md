@@ -21,7 +21,7 @@ The table below shows a breakdown of the motives or issues that led to the prote
 
 ![](/img/protest-table-14july.png)
 
-### Protest 1: Service Delivery
+#### Protest 1: Service Delivery
 
 On the 14th of July 2020, a protest was reported in extensions 25 & 28, Vryburg, North West. Approximately 50 community members gathered to protest having been without electricity for over a week. Protestors telephonically engaged the premier of the North West Province, Prof. Tebogo Job Mokgor. Police responded to the incident and used rubber bullets to disperse the crowd. Some community members were injured.
 
