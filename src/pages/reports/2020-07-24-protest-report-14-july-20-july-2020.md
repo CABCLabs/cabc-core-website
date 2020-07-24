@@ -11,7 +11,9 @@ tags:
   - Weekly Reports
   - Trends
 ---
-##Summary of the Week:##
+## Summary of the Week:
+
+**[Download Report (PDF)](https://drive.google.com/u/2/uc?id=1BduDUD6NKhW-rHBPdLmvT0NmN8SRD-OF&export=download)**
 
 A total of forty (40) protests were recorded.
 
@@ -258,6 +260,8 @@ Source: [The South African](https://www.thesouthafrican.com/news/numsa-plans-pic
 On the 20th of July 2020, a protest was reported in Strand, Western Cape on the N2 at R102. The motive behind this protest is unknown.
 
 Source: [Twitter](https://twitter.com/RiotAndAttackSA/status/1285063991371464705)
+
+**[Download Report (PDF)](https://drive.google.com/u/2/uc?id=1BduDUD6NKhW-rHBPdLmvT0NmN8SRD-OF&export=download)**
 
 End.
 
