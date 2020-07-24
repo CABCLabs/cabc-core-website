@@ -1,7 +1,7 @@
 ---
 templateKey: report-post
 title: "Civil Unrest Report Commentary:  14 July - 20 July 2020 "
-date: 2020-07-20T06:57:34.491Z
+date: 2020-07-24T07:36:19.281Z
 description: >
   For the period of 14 July - 20 July 2020 the Protest Query run by CABC
   returned: 15 157 mentions. 7 516 unique authors were involved in the

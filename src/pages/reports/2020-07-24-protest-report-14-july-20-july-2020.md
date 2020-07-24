@@ -1,7 +1,7 @@
 ---
 templateKey: report-post
 title: "Protest Report: 14 July - 20 July 2020"
-date: 2020-07-20T06:49:43.526Z
+date: 2020-07-24T06:45:00.000Z
 description: |
   This is a summary of the protests that occurred over the period of:
   14 July - 20 July 2020
