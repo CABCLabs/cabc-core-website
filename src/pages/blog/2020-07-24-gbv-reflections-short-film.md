@@ -13,6 +13,8 @@ tags:
 ---
 It's time for men to reflect on the part they play in this cycle of misogyny and violence, and to be part of the solution. Enough is enough.
 
+<iframe width="420" height="315" src="https://www.youtube.com/embed/FBxfrqUaqgY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Credits:**
 
 CareZA could not have made the Reflections Film, which highlights how gender-based violence starts and how we can stop it, without the generous participation of the following people. Huge Thanks to all of you for helping with this extremely important cause:
