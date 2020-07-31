@@ -1,6 +1,6 @@
 ---
 templateKey: report-post
-title: 24 Hour Trend Report | 30 July 2020
+title: 24 Hour Trend Report | 1 July 2020
 date: 2020-07-30T11:39:40.481Z
 description: >-
   
