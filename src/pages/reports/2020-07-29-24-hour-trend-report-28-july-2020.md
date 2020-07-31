@@ -77,7 +77,6 @@ A significant driver of volume for the hashtag #COVID19, was a tweet posted by @
 
 **[Download Report (PDF)](https://drive.google.com/u/2/uc?id=1FIi3DX-0u0e7rA97wDVS06zF7Ur_Tbxm&export=download)**
 
-\
 ends
 
 Issued by the Centre for Analytics and Behavioural Change.
