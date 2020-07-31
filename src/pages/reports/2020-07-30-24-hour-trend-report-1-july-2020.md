@@ -9,6 +9,7 @@ featuredpost: false
 featuredimage: /img/face-mask-on-blue-background-3786153-1-.jpg
 tags:
   - Daily Reports
+  - Trends
 ---
 [Download Report (PDF)](https://drive.google.com/u/1/uc?id=1iItanJHmOPyCxPXj0HVZvob_0APMTHBo&export=download)
 
