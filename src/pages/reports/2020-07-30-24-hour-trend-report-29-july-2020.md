@@ -1,7 +1,7 @@
 ---
 templateKey: report-post
 title: 24 Hour Trend Report | 29 July 2020
-date: 2020-07-29T07:03:20.027Z
+date: 2020-07-29T07:04:00.000Z
 description: >
   This is a summary of the trending, highest impact, and most active themes and
   their narratives related to social cohesion and division in South African
