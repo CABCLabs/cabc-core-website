@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Western Cape most plagued by protests since start of lockdown
+title: Western Cape most plagued by protests since start of lockdown /Cape Argus
 date: 2020-08-12T12:07:13.849Z
 description: The Western Cape has had the most protest actions since the start
   of the lockdown between March 27 and July 31
