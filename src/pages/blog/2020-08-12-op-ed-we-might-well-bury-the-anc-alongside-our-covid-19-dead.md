@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "OP-ED: We might well bury the ANC alongside our Covid-19 dead"
+title: "OP-ED: We might well bury the ANC alongside our Covid-19 dead /City Press"
 date: 2020-08-12T11:50:44.703Z
 description: Bloated with corruption and fraught with internal intrigues and
   divisions, where normalised deviance is the compass that points to the way
