@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: STUDY BLOWS LID ON XENOPHOBIC TWITTER NETWORK RUN BY 'ULERATO PILLAY'
+title: STUDY BLOWS LID ON XENOPHOBIC TWITTER NETWORK RUN BY 'ULERATO PILLAY' | EWN
 date: 2020-08-18T08:38:00.000Z
 description: JOHANNESBURG - Over a decade after the first wave of widespread
   xenophobic attacks happened in South Africa, the country is still fraught with
