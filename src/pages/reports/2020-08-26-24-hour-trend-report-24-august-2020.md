@@ -1,7 +1,7 @@
 ---
 templateKey: report-post
 title: 24 Hour Trend Report | 24 August 2020
-date: 2020-08-26T06:51:34.078Z
+date: 2020-08-24T06:51:34.078Z
 description: This is a summary of the trending, highest impact, and most active
   themes and narratives related to social cohesion and division in South African
   public-domain social media conversations from 21 to 23 August 2020.
