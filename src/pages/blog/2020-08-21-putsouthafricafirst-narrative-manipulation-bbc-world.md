@@ -10,6 +10,6 @@ featuredimage: /img/twitter.jpg
 tags:
   - Media Coverage
 ---
-Listen to the interview below with Stuart Jones, director at The Centre for Analytics and Behavioral Change.
+Listen to the interview below with Stuart Jones, director at The Centre for Analytics and Behavioural Change.
 
 <iframe src="https://drive.google.com/file/d/1QE-tPNmM-P-ZsBD4G5pTTD8H38-GiMHi/preview" width="640" height="200"></iframe>
