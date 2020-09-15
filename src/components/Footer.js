@@ -17,6 +17,11 @@ const Footer = class extends React.Component {
             src={logo}
             alt="CABC Logo"
             style={{ width: '11em' }}
+          /><br/>
+           <img
+            src='https://www.careza.co.za/static/white-careZA-4aef5353ac43a6c96a82f56379823c1e.png'
+            alt="CareZA Logo"
+            style={{ width: '13em', background: '#4dad33', padding: '5px' }}
           />
         </div>
         <div style={{paddingTop: '40px'}} className="has-background-black">
