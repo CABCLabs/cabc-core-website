@@ -76,6 +76,16 @@ export const IndexPageTemplate = ({
                     <Link to="/tags/daily-reports" title="Daily Reports">
              <h3 className="cta_big">Daily Reports   &rarr;</h3>
             </Link>
+            <h3>Current Projects</h3>
+            <img
+            src='https://hecareza.co.za/wp-content/uploads/2020/08/cropped-HeCareZa-2048x415.png'
+            alt="CareZA Logo"
+            style={{ width: '13em', padding: '5px' }}
+          />
+            <p>Men’s anger and violence threatens you, your loved ones and your community.  Let us join you in your stand against misogyny and gender-based violence. At heCareZA we believe men who hurt women have probably have been hurt and neglected themselves by older men. The very good news is that we, the mostly non-violent ones are many and the violent ones are few. At heCareZA we encourage the many to support each other using proven techniques of cooperation and support with methods of dialoguing with the few that will help them to find a non-violent way of being in the world. Lets make #GBVFALL. Do you know how?</p>
+            <Link to="http://hecareza.co.za/" title="Daily Reports" target="_blank">
+             <h3 className="cta_big">Visit Website   &rarr;</h3>
+            </Link>
                   </div>
                   
                   </div>
